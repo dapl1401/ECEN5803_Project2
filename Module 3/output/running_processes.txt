@@ -1,0 +1,127 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1 47.8  0.8  15152  7792 ?        Rs   01:44   0:03 /sbin/init splash
+root         2  0.0  0.0      0     0 ?        S    01:44   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        I<   01:44   0:00 [rcu_gp]
+root         4  0.0  0.0      0     0 ?        I<   01:44   0:00 [rcu_par_gp]
+root         5  0.0  0.0      0     0 ?        I    01:44   0:00 [kworker/0:0-memcg_kmem_cache]
+root         6  0.0  0.0      0     0 ?        I<   01:44   0:00 [kworker/0:0H-mmc_complete]
+root         7  0.2  0.0      0     0 ?        I    01:44   0:00 [kworker/u8:0-events_unbound]
+root         8  0.0  0.0      0     0 ?        I<   01:44   0:00 [mm_percpu_wq]
+root         9  0.4  0.0      0     0 ?        S    01:44   0:00 [ksoftirqd/0]
+root        10  0.2  0.0      0     0 ?        I    01:44   0:00 [rcu_sched]
+root        11  0.0  0.0      0     0 ?        I    01:44   0:00 [rcu_bh]
+root        12  0.7  0.0      0     0 ?        S    01:44   0:00 [migration/0]
+root        13  0.0  0.0      0     0 ?        S    01:44   0:00 [cpuhp/0]
+root        14  0.0  0.0      0     0 ?        S    01:44   0:00 [cpuhp/1]
+root        15  0.7  0.0      0     0 ?        S    01:44   0:00 [migration/1]
+root        16  0.1  0.0      0     0 ?        S    01:44   0:00 [ksoftirqd/1]
+root        17  0.0  0.0      0     0 ?        I    01:44   0:00 [kworker/1:0-mm_percpu_wq]
+root        18  2.1  0.0      0     0 ?        I<   01:44   0:00 [kworker/1:0H-kblockd]
+root        19  0.0  0.0      0     0 ?        S    01:44   0:00 [cpuhp/2]
+root        20  0.7  0.0      0     0 ?        S    01:44   0:00 [migration/2]
+root        21  0.2  0.0      0     0 ?        S    01:44   0:00 [ksoftirqd/2]
+root        22  0.0  0.0      0     0 ?        I    01:44   0:00 [kworker/2:0-memcg_kmem_cache]
+root        23  0.0  0.0      0     0 ?        I<   01:44   0:00 [kworker/2:0H-kblockd]
+root        24  0.0  0.0      0     0 ?        S    01:44   0:00 [cpuhp/3]
+root        25  0.0  0.0      0     0 ?        S    01:44   0:00 [migration/3]
+root        26  1.0  0.0      0     0 ?        S    01:44   0:00 [ksoftirqd/3]
+root        27  0.0  0.0      0     0 ?        I    01:44   0:00 [kworker/3:0-mm_percpu_wq]
+root        28  0.0  0.0      0     0 ?        I<   01:44   0:00 [kworker/3:0H-kblockd]
+root        29  0.0  0.0      0     0 ?        S    01:44   0:00 [kdevtmpfs]
+root        30  0.0  0.0      0     0 ?        I<   01:44   0:00 [netns]
+root        31  1.1  0.0      0     0 ?        I    01:44   0:00 [kworker/0:1-events]
+root        32  0.2  0.0      0     0 ?        I    01:44   0:00 [kworker/1:1-events]
+root        33  1.2  0.0      0     0 ?        I    01:44   0:00 [kworker/2:1-events]
+root        34  0.0  0.0      0     0 ?        S    01:44   0:00 [khungtaskd]
+root        35  0.0  0.0      0     0 ?        S    01:44   0:00 [oom_reaper]
+root        36  0.0  0.0      0     0 ?        I<   01:44   0:00 [writeback]
+root        37  0.0  0.0      0     0 ?        S    01:44   0:00 [kcompactd0]
+root        38  0.0  0.0      0     0 ?        I<   01:44   0:00 [crypto]
+root        39  0.0  0.0      0     0 ?        I<   01:44   0:00 [kblockd]
+root        40  0.0  0.0      0     0 ?        S    01:44   0:00 [watchdogd]
+root        41  0.0  0.0      0     0 ?        I<   01:44   0:00 [rpciod]
+root        42  0.0  0.0      0     0 ?        I<   01:44   0:00 [kworker/u9:0]
+root        43  0.0  0.0      0     0 ?        I<   01:44   0:00 [xprtiod]
+root        44  0.0  0.0      0     0 ?        I    01:44   0:00 [kworker/u8:1-events_unbound]
+root        46  0.0  0.0      0     0 ?        S    01:44   0:00 [kswapd0]
+root        47  0.0  0.0      0     0 ?        I<   01:44   0:00 [nfsiod]
+root        58  0.0  0.0      0     0 ?        I<   01:44   0:00 [kthrotld]
+root        59  0.1  0.0      0     0 ?        I    01:44   0:00 [kworker/3:1-events]
+root        60  0.0  0.0      0     0 ?        I<   01:44   0:00 [iscsi_eh]
+root        61  0.0  0.0      0     0 ?        I<   01:44   0:00 [dwc_otg]
+root        62  0.0  0.0      0     0 ?        I<   01:44   0:00 [DWC Notificatio]
+root        63  3.2  0.0      0     0 ?        I    01:44   0:00 [kworker/3:2-memcg_kmem_cache]
+root        64  0.0  0.0      0     0 ?        S<   01:44   0:00 [vchiq-slot/0]
+root        65  0.0  0.0      0     0 ?        S<   01:44   0:00 [vchiq-recy/0]
+root        66  0.0  0.0      0     0 ?        S<   01:44   0:00 [vchiq-sync/0]
+root        67  0.0  0.0      0     0 ?        S    01:44   0:00 [vchiq-keep/0]
+root        68  0.0  0.0      0     0 ?        S<   01:44   0:00 [SMIO]
+root        69  0.0  0.0      0     0 ?        S    01:44   0:00 [irq/86-mmc1]
+root        70  0.0  0.0      0     0 ?        I    01:44   0:00 [kworker/3:3-cgroup_destroy]
+root        71  0.0  0.0      0     0 ?        I<   01:44   0:00 [mmc_complete]
+root        72  0.5  0.0      0     0 ?        I<   01:44   0:00 [kworker/3:1H-kblockd]
+root        73  0.5  0.0      0     0 ?        I<   01:44   0:00 [kworker/0:1H-mmc_complete]
+root        74  0.0  0.0      0     0 ?        S    01:44   0:00 [jbd2/mmcblk0p7-]
+root        75  0.0  0.0      0     0 ?        I<   01:44   0:00 [ext4-rsv-conver]
+root        76  0.0  0.0      0     0 ?        I<   01:44   0:00 [kworker/1:1H]
+root        77  0.1  0.0      0     0 ?        I<   01:44   0:00 [kworker/1:2H]
+root        78  0.0  0.0      0     0 ?        I<   01:44   0:00 [ipv6_addrconf]
+root        84  0.5  0.0      0     0 ?        I<   01:44   0:00 [kworker/2:1H-kblockd]
+root        93  0.0  0.0      0     0 ?        I<   01:44   0:00 [kworker/2:2H-kblockd]
+root        94  0.0  0.0      0     0 ?        I<   01:44   0:00 [kworker/3:2H]
+root        95  1.0  0.0      0     0 ?        I<   01:44   0:00 [kworker/0:2H-mmc_complete]
+root       104 11.4  0.6  18952  6300 ?        Rs   01:44   0:00 /lib/systemd/systemd-journald
+root       112  0.0  0.0      0     0 ?        I    01:44   0:00 [kworker/u8:2-events_unbound]
+root       122  0.0  0.0      0     0 ?        I    01:44   0:00 [kworker/2:2-events]
+root       128  1.2  0.2  17276  2600 ?        Ss   01:44   0:00 /lib/systemd/systemd-fsckd
+root       139 28.5  0.4  18428  4012 ?        Ss   01:44   0:01 /lib/systemd/systemd-udevd
+root       140  7.2  0.4  18296  4428 ?        S    01:44   0:00 /lib/systemd/systemd-udevd
+root       141  6.2  0.3  18296  3176 ?        S    01:44   0:00 /lib/systemd/systemd-udevd
+root       143  6.2  0.4  18296  4076 ?        S    01:44   0:00 /lib/systemd/systemd-udevd
+root       144  8.5  0.4  18296  4712 ?        S    01:44   0:00 /lib/systemd/systemd-udevd
+root       145  7.5  0.3  18364  3748 ?        S    01:44   0:00 /lib/systemd/systemd-udevd
+root       146  8.5  0.4  18364  4484 ?        S    01:44   0:00 /lib/systemd/systemd-udevd
+root       147  8.2  0.3  18296  3508 ?        S    01:44   0:00 /lib/systemd/systemd-udevd
+root       148  6.7  0.3  18296  3764 ?        S    01:44   0:00 /lib/systemd/systemd-udevd
+root       149  6.5  0.4  18296  4136 ?        S    01:44   0:00 /lib/systemd/systemd-udevd
+root       150  6.7  0.3  18296  3392 ?        S    01:44   0:00 /lib/systemd/systemd-udevd
+root       151 52.7  2.3  35912 22748 ?        R    01:44   0:02 @sbin/plymouthd --mode=boot --pid-file=/run/plymouth/pid --attach-to-session
+root       159  0.0  0.0      0     0 ?        S<   01:44   0:00 [SMIO]
+root       177  0.0  0.0      0     0 ?        I<   01:44   0:00 [mmal-vchiq]
+root       178  0.0  0.0      0     0 ?        I<   01:44   0:00 [mmal-vchiq]
+root       179  0.0  0.0      0     0 ?        I<   01:44   0:00 [mmal-vchiq]
+root       213  0.3  0.0      0     0 ?        I    01:44   0:00 [kworker/1:2-events]
+root       214  0.0  0.0      0     0 ?        I<   01:44   0:00 [cfg80211]
+root       216  0.0  0.0      0     0 ?        I<   01:44   0:00 [brcmf_wq/mmc1:0]
+root       217  0.0  0.0      0     0 ?        S    01:44   0:00 [brcmf_wdog/mmc1]
+root       237  3.0  0.2  12688  2628 ?        Ss   01:44   0:00 /lib/systemd/systemd-rfkill
+systemd+   270 19.0  0.3  22372  2976 ?        Ssl  01:44   0:00 /lib/systemd/systemd-timesyncd
+root       307  1.0  0.0      0     0 ?        I    01:44   0:00 [kworker/0:2-events]
+message+   312 15.0  0.3   6548  2896 ?        Ss   01:44   0:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root       313  6.0  0.4  10700  4004 ?        Ss   01:44   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root       315  8.0  0.2  25512  2676 ?        Ssl  01:44   0:00 /usr/sbin/rsyslogd -n -iNONE
+root       318  2.0  0.0   3692   732 ?        SNs  01:44   0:00 /usr/sbin/alsactl -E HOME=/run/alsa -s -n 19 -c rdaemon
+root       322 13.0  0.5  12868  5392 ?        Ss   01:44   0:00 /lib/systemd/systemd-logind
+nobody     323  2.0  0.2   4320  2052 ?        Ss   01:44   0:00 /usr/sbin/thd --triggers /etc/triggerhappy/triggers.d/ --socket /run/thd.socket --user nobody --deviceglob /dev/input/event*
+root       324 15.0  0.7  43628  6792 ?        Ssl  01:44   0:00 /usr/lib/udisks2/udisksd
+root       330  1.0  0.0   1940   416 ?        Ss   01:44   0:00 /bin/sh /etc/init.d/raspi-config start
+root       331  0.0  0.0      0     0 ?        I    01:44   0:00 [kworker/0:3-events]
+root       332  1.0  0.2   7944  2196 ?        Ss   01:44   0:00 /usr/sbin/cron -f
+root       335  2.0  0.1   1940  1116 ?        Ss   01:44   0:00 /bin/sh /usr/bin/btuart
+avahi      336  4.0  0.2   5772  2604 ?        Ss   01:44   0:00 avahi-daemon: running [raspberrypi.local]
+root       369  0.0  0.1   2140  1520 ?        S    01:44   0:00 /usr/bin/hciattach /dev/serial1 bcm43xx 921600 noflow - b8:27:eb:b7:91:c2
+root       370  0.0  0.0  27656    80 ?        SLsl 01:44   0:00 /usr/sbin/rngd -r /dev/hwrng
+root       374  0.0  0.2   9464  2096 ?        S    01:44   0:00 /usr/sbin/CRON -f
+root       389  0.0  0.1   2964  1540 ?        Ss   01:44   0:00 /sbin/dhcpcd -q -b
+avahi      391  0.0  0.0   5772   252 ?        S    01:44   0:00 avahi-daemon: chroot helper
+root       401  0.0  0.0      0     0 ?        I    01:44   0:00 [kworker/u8:3-events_unbound]
+root       410  0.0  0.0   1940   412 ?        Ss   01:44   0:00 /bin/sh /sbin/dphys-swapfile swapon
+root       412  0.0  0.1   1940  1328 ?        S    01:44   0:00 /bin/sh /lib/dhcpcd/dhcpcd-run-hooks
+root       415  0.0  0.0   8568   832 ?        R    01:44   0:00 swapon /var/swap
+pi         420  0.0  0.0   1940   376 ?        Ss   01:44   0:00 /bin/sh -c /bin/bash /home/pi/Downloads/command_executer.sh > /home/pi/Downloads/cron_log.txt 2>&1
+pi         421  0.0  0.2   7676  2544 ?        S    01:44   0:00 /bin/bash /home/pi/Downloads/command_executer.sh
+root       425  0.0  0.0   2364   516 ?        S    01:44   0:00 plymouth --ping
+root       429  0.0  0.2   7676  2548 ?        S    01:44   0:00 /bin/bash /home/pi/Downloads/command_executer.sh
+root       439  0.0  0.4  10700  4412 ?        D    01:44   0:00 wpa_supplicant -B -c/etc/wpa_supplicant/wpa_supplicant.conf -iwlan0 -Dnl80211,wext
+pi         440  0.0  0.2   9788  2480 ?        R    01:44   0:00 ps -aux
+root       441  0.0  0.2   9788  2500 ?        R    01:44   0:00 ps -aux

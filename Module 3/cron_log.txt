@@ -1,0 +1,12 @@
+Script Menu:
+1: Prints Date
+2: Prints the number of processes which are running currently
+3: Prints the kernel name
+4: Prints the kernel version
+5: Prints the Kernel release
+6: Prints the kernel dump or messages
+7: Prints the RAM status
+8: Prints the overall CPU usage
+9: Prints the current user
+10:Prints the Device IP
+11:Prints the System uptime
